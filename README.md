@@ -38,6 +38,10 @@ $mvn clean install spring-boot:run
 
 TODO
 
+## CI
+
+This project as Travis added
+
 
 ## Built With
 
