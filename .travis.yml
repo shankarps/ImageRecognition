@@ -2,7 +2,7 @@ language: java
 
 addons:
   sonarcloud:
-    organization: "shankarps"
+    organization: "shankarps-github"
     token:
       secure: "e630707907e65af89a5ea1a1d437a13ca1da5893"
 
