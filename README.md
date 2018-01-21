@@ -1,3 +1,4 @@
+https://travis-ci.org/shankarps/ImageRecognition.svg?branch=master
 # Image recognition
 
 This project deals with image recognition.
