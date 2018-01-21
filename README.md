@@ -40,7 +40,7 @@ TODO
 
 ## CI
 
-This project as Travis added
+This project as Travis CI integrated with Github
 
 
 ## Built With
