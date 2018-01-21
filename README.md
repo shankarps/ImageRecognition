@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/shankarps/ImageRecognition.svg?branch=master)](https://travis-ci.org/shankarps/ImageRecognition)
+[![SonarQube Coverage](https://img.shields.io/sonar/http/sonarcloud.io/com.shankar.aws:ImageRecognition/coverage.svg?style=flat-square)]()
+
 # Image recognition
 
 This project deals with image recognition.
